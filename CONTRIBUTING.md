@@ -1,4 +1,4 @@
 To Contribute:
 
-* Form my prject
+* Form my project
 * Send me pull-requests
